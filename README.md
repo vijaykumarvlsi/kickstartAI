@@ -1,2 +1,4 @@
 # kickstartAI
 learning how to use git repo
+
+what is the purpose of doing all this?
